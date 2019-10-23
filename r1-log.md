@@ -28,3 +28,6 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 8: October 22, 2019
 **Today's Progress**: I continued with the tutorial for a little Javascript Tron game. The parsing problems from yesterday were quickly resolved today. 
 
+### Day 9: October 23, 2019
+**Today's Progress**: I finished the tutorial for the Javascript Tron game. The tutorial wasn't really good as it is lacking any explanation and also no real coding architecture practices 
+
