@@ -31,3 +31,6 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 9: October 23, 2019
 **Today's Progress**: I finished the tutorial for the Javascript Tron game. The tutorial wasn't really good as it is lacking any explanation and also no real coding architecture practices 
 
+### Day 10: October 24, 2019
+**Today's Progress**: With yesterdays tutorial I realized that it doesn't make sense to just do random tuorials. I need something with more structure which is build on each other. So I started to read the book "Eloqunet JavaScript" by Marijn Haverbeke today. So far I am going only through the basics to find the right spot for me to start learning.
+
