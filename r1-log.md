@@ -37,3 +37,6 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 11: October 25, 2019
 **Today's Progress**: Today I continued to read "Eloquent Javascript" to find my starting point to learn new stuff. I read basic stuff about Bindings, Scopes, Nested Scopes, Closures and Recursions
 
+### Day 12: October 26, 2019
+**Today's Progress**: I continued to read "Eloquent Javascript" to find my starting point to learn new stuff. I read basic stuff about Functions, Arrays and Objects
+
