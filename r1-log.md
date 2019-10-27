@@ -40,3 +40,6 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 12: October 26, 2019
 **Today's Progress**: I continued to read "Eloquent Javascript" to find my starting point to learn new stuff. I read basic stuff about Functions, Arrays and Objects
 
+### Day 13: October 27, 2019
+**Today's Progress**: Cheating day: Today I had to combine work and learning as I am having a tight deadline for tomorrow. So I worked on a Javascript step sequencer for a client. You can play along with the sounds, create an album cover and send both with a from to participate in a contest. The Song and the album cover is then saved in within Wordpress. 
+
