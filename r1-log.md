@@ -47,5 +47,11 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 **Today's Progress**: Today I was working on the Javascript step sequencer again, but was also able to do my daily challenge part. So I continued reading about arrays and object and all the magic that you can do with them.
 
 ### Day 15: October 29, 2019
-**Today's Progress**: Finally I started to make my hands dirty and began to coding again. I did some of the example exercises of chapter 4 of "Eloquent Javascript"
+**Today's Progress**: Finally I started to make my hands dirty and began to coding again. I did some of the example exercises of chapter 4 of "Eloquent Javascript". 
+
+### Day 16: October 29, 2019
+**Today's Progress**: Today I did some of the example exercises of chapter 4 of "Eloquent Javascript" and read a bit further about higher order functions 
+
+### Day 17: October 29, 2019
+**Today's Progress**: Cheating day: Today I couldn't find the time to focus on the challenge. I had to work on an urgent project instead, but tried to do standards in a new way. So I learned new ways to deal with custom post types, captchas in Wordpress and experimented a bit with the ScrollMagic.js libary
 
