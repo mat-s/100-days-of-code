@@ -58,4 +58,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 18: November 1, 2019
 **Today's Progress**: I continued to read "Eloquent Javascript" chapter 5 about higher order functions. Besides that I made some research about some more fun tutorials to go through on days without being to enthusiastic
 
+### Day 19: November 2, 2019
+**Today's Progress**: Today I digged a bit into ScrollMagic.js and what is possible with it regarding parallax websites. It was fun to go through some tutorials 
+
 
