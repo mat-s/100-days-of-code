@@ -61,4 +61,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 19: November 2, 2019
 **Today's Progress**: Today I digged a bit into ScrollMagic.js and what is possible with it regarding parallax websites. It was fun to go through some tutorials 
 
+### Day 20: November 3, 2019
+**Today's Progress**: Cheating Day: Due to a deadline I included my challenge into work again. So I was working with some image scalling todos, more ScrollMagic.js and DOM manipulation. Right now I am really struggeling timewise.
+
 
