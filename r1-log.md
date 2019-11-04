@@ -64,4 +64,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 20: November 3, 2019
 **Today's Progress**: Cheating Day: Due to a deadline I included my challenge into work again. So I was working with some image scalling todos, more ScrollMagic.js and DOM manipulation. Right now I am really struggeling timewise.
 
+### Day 21: November 4, 2019
+**Today's Progress**: Today I went through a bit more of higher order functions. I want realize that I often think to much of one-step-at-a-time, so I want to practice higher functions a bit more in detail. 
+
 
