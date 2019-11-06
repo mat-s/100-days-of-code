@@ -67,4 +67,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 21: November 4, 2019
 **Today's Progress**: Today I went through a bit more of higher order functions. I want realize that I often think to much of one-step-at-a-time, so I want to practice higher functions a bit more in detail. 
 
+### Day 22: November 6, 2019
+**Today's Progress**: I had to pause a day because of work. But today I started to code again and spent some more time on the chapter for higher order functions. I still often have a knot in my head, so I want to stay with that chapter until it goes smoother
+
 
