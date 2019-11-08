@@ -73,4 +73,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 23: November 7, 2019
 **Today's Progress**: Today I learnt a bit more about encapsulation, prototypes, classes, maps and polymorphism in Javascript.
 
+### Day 24: November 8, 2019
+**Today's Progress**: Today I read about symbols, the iterator interface, getters&setters, statics and inheritance.
+
 
