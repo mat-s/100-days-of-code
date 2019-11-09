@@ -76,4 +76,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 24: November 8, 2019
 **Today's Progress**: Today I read about symbols, the iterator interface, getters&setters, statics and inheritance.
 
+### Day 25: November 9, 2019
+**Today's Progress**: Today I set up a fun project to have a little bit more practice. As I am playing in a cover band, I want to set up a Wordpress plugin for the song managment. The user should be able to upload songs, categorize them, add infos like the key, musicians, etc. to it and generate playlists with it, to practise these lists for concerts. Todays work was to setup Wordpress, a Plugin-Draft, create the custom post types and a custom admin menu.
+
 
