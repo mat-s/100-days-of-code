@@ -82,4 +82,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 26: November 10, 2019
 **Today's Progress**: Today I spent some more time on preparing my song manager plugin for Wordpress. I defined more details about the custom post types and included first custom fields and created custom taxonomies. Not much progress though, but anyways, it is Sunday ;) Will do tomorrow...
 
+### Day 27: November 12, 2019
+**Today's Progress**: Today I researched more about CSS Grids and React to combine it with a headless Wordpress for my Song Manager project.
+
 
