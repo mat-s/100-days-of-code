@@ -85,4 +85,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 27: November 12, 2019
 **Today's Progress**: Today I researched more about CSS Grids and React to combine it with a headless Wordpress for my Song Manager project.
 
+### Day 28: November 13, 2019
+**Today's Progress**: Today I learned about CSS Properties and more about CSS Grids and about the basics of React.
+
 
