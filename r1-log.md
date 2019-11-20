@@ -91,4 +91,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 29: November 19, 2019
 **Today's Progress**: I had to skip some days because of a cold and my sister visiting me. Now back in the game with setting up my React enviroment and starting with "React - The Complete Guide" 
 
+### Day 30: November 20, 2019
+**Today's Progress**: I continued with "React - The Complete Guide" and learned a lot about working lists and conditionals
+
 
