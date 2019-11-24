@@ -97,4 +97,13 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 31: November 21, 2019
 **Today's Progress**: Today I started to implement the first React components for my song manager tool. So I created a song list and a player and did the CSS for it as well. After that I continued with "React - The Complete Guide"
 
+### Day 32: November 22, 2019
+**Today's Progress**: I continued with "React - The Complete Guide" chapter 7
+
+### Day 33: November 23, 2019
+**Today's Progress**: I continued with "React - The Complete Guide" chapter 7
+
+### Day 34: November 24, 2019
+**Today's Progress**: I continued with "React - The Complete Guide" finished chapter 7
+
 
