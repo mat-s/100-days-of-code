@@ -112,4 +112,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 36: November 26, 2019
 **Today's Progress**: Today I refactored my Song Manager app a bit to a new folder and component structure and applied a css grid on it. After that I continued with "React - The Complete Guide" and continued with the burger project, to dynamically add the ingredients and to build the controls.
 
+### Day 37: November 27, 2019
+**Today's Progress**: I continued with "React - The Complete Guide" and started with the burger project
+
 
