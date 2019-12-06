@@ -115,4 +115,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 37: November 27, 2019
 **Today's Progress**: I continued with "React - The Complete Guide" and started with the burger project
 
+### Day 38: December 6, 2019
+**Today's Progress**: I continued with "React - The Complete Guide" and started to built the modal for the order summary
+
 
