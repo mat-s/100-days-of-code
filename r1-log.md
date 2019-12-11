@@ -124,4 +124,7 @@ The log of my #100DaysOfCode challenge. Started on [October 15, Tuesday, 2019].
 ### Day 40: December 10, 2019
 **Today's Progress**: Today I had to switch to another topic and was learning about Weclapp and how to connect it to Shopify.
 
+### Day 41: December 11, 2019
+**Today's Progress**: I learned a lot about Shopify Apps and the Shopify APIs today.
+
 
