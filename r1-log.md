@@ -9,3 +9,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 2: January 27, 2021
 **Today's Progress**: I worked more on the content model and included the first dummy content in Contentful. Normaly using Sublime to code, I installed VS Code to also learn another editor. Then I set up a Gatsby project and connected it to Contentful. Having both up and running, I started digging a bit with GraphQL 
+
+### Day 3: January 28, 2021
+**Today's Progress**: Today I worked more on my first Gatsby steps on bringing the content from Contentful into my code. Very basic Gatsby steps.
