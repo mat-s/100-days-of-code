@@ -15,3 +15,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 4: January 29, 2021
 **Today's Progress**: Today I fouled around in Gatsby and React, but often ended up doing things without understanding the background. Tomorrow I will take a step back and go a bit more over the basics again, not forcing to directly meet my project ideas 
+
+### Day 5: January 30, 2021
+**Today's Progress**: Today I learned more about the basics in Gatsby
