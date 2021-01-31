@@ -18,3 +18,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 5: January 30, 2021
 **Today's Progress**: Today I learned more about the basics in Gatsby
+
+### Day 6: January 31, 2021
+**Today's Progress**: Today I learned more about the basics in Gatsby
