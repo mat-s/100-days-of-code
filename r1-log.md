@@ -21,3 +21,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 6: January 31, 2021
 **Today's Progress**: Today I learned more about the basics in Gatsby
+
+### Day 7: February 01, 2021
+**Today's Progress**: Started a video course too build a blog with Gatsby. Learned about source plugins, markdown, GraphQL and GraphQL arguments
