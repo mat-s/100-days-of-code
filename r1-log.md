@@ -24,3 +24,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 7: February 01, 2021
 **Today's Progress**: Started a video course too build a blog with Gatsby. Learned about source plugins, markdown, GraphQL and GraphQL arguments
+
+### Day 8: February 02, 2021
+**Today's Progress**: I continued the video course to build a blog with Gatsby. Learned about setting up a pagination for the posts and to sort and format the results in GraphQl
