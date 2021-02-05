@@ -30,3 +30,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 9: February 03, 2021
 **Today's Progress**: Another day with the video course on how to build a blog in Gatsby. Today was all about advanced image concepts in Gatsby and GraphQL Fragments
+
+### Day 10: February 04, 2021
+**Today's Progress**: Excursion into another topic: Today I had to learn something for another project that I am currently working on. I have to dig deeper into an external API and had to learn about how to use it and how to deal with Swaggerhub.
