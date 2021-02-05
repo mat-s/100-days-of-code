@@ -33,3 +33,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 10: February 04, 2021
 **Today's Progress**: Excursion into another topic: Today I had to learn something for another project that I am currently working on. I have to dig deeper into an external API and had to learn about how to use it and how to deal with Swaggerhub.
+
+### Day 11: February 05, 2021
+**Today's Progress**: Another day in my PHP project: Still learning about  external API and Swaggerhub.
