@@ -36,3 +36,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 11: February 05, 2021
 **Today's Progress**: Another day in my PHP project: Still learning about  external API and Swaggerhub.
+
+### Day 12&13: February 07, 2021
+**Today's Progress**: Today I finished the video course oon how to build a blog and a simple store in Gatsby. I connected the site to Contenful, set up products, built in a simple cart&checkout with Snipchat, deployed to Netlify and set up a simple authentification.  
