@@ -39,3 +39,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 12&13: February 07, 2021
 **Today's Progress**: Today I finished the video course oon how to build a blog and a simple store in Gatsby. I connected the site to Contenful, set up products, built in a simple cart&checkout with Snipchat, deployed to Netlify and set up a simple authentification.  
+
+### Day 14&15: February 09, 2021
+**Today's Progress**: I did some more fine tuning in the Gatsby blog project. After that I researched and learned more about the combination of Wordpress as a headless CMS in combination with Gatsby. 
