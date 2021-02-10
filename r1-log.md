@@ -42,3 +42,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 14&15: February 09, 2021
 **Today's Progress**: I did some more fine tuning in the Gatsby blog project. After that I researched and learned more about the combination of Wordpress as a headless CMS in combination with Gatsby. 
+
+### Day 16: February 10, 2021
+**Today's Progress**: I started a new project to set up an address book with Wordpress as a headless CMS and Gatsby, just to practise the combination of the two of them. Today I just made a rough plan, set up the two test enviroments and connected them with the help of the gatsby-source-wordpress plugin. 
