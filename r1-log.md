@@ -48,3 +48,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 17: February 11, 2021
 **Today's Progress**: Very little time today, I only learned one hour. I created a couple of custom fields in Wordpress and got them into my GraphQL. From there I included them into the Gatsby page. I hope I can do more tomorrow.
+
+### Day 18: February 12, 2021
+**Today's Progress**: A little excurse into the world of oauth today: I played around with the Facebook graph explorer and learnd how to get all the credentials to access it. 
