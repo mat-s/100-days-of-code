@@ -51,3 +51,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 18: February 12, 2021
 **Today's Progress**: A little excurse into the world of oauth today: I played around with the Facebook graph explorer and learnd how to get all the credentials to access it. 
+
+### Day 19: February 13, 2021
+**Today's Progress**: Today I continued with my address book tool. I set up a custom post type in Wordpress and created the neccessary custom fields. As I want to import contacts from different sources, I started to write a import tool. So today it was mostly PHP work...
