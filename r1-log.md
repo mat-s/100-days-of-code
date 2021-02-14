@@ -54,3 +54,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 19: February 13, 2021
 **Today's Progress**: Today I continued with my address book tool. I set up a custom post type in Wordpress and created the neccessary custom fields. As I want to import contacts from different sources, I started to write a import tool. So today it was mostly PHP work...
+
+### Day 20: February 14, 2021
+**Today's Progress**: A very unsuccessful day, still working on the importer plugin for Wordpress. And I got stuck with a PHP problems that slowed down the learning progress today. Well, I will have learned a lot when I solve that problem ;) Hopefully tomorrow...
