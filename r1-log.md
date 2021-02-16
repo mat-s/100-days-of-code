@@ -57,3 +57,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 20: February 14, 2021
 **Today's Progress**: A very unsuccessful day, still working on the importer plugin for Wordpress. And I got stuck with a PHP problems that slowed down the learning progress today. Well, I will have learned a lot when I solve that problem ;) Hopefully tomorrow...
+
+### Day 21 &22: February 16, 2021
+**Today's Progress**: I got my import tool to work and was then finally able to head over to Gatsby and GraphQL then. I learned to include custom post types into GraphQL and also how to include custom fields within these custom post types
