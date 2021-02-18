@@ -60,3 +60,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 21 &22: February 16, 2021
 **Today's Progress**: I got my import tool to work and was then finally able to head over to Gatsby and GraphQL then. I learned to include custom post types into GraphQL and also how to include custom fields within these custom post types
+
+### Day 23 &24: February 18, 2021
+**Today's Progress**: Fiddled about with a lot of UI things the last two days and tried a lot of plugins for different things, as date picking tools, form validation, google maps, etc. 
