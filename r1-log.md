@@ -65,4 +65,7 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 **Today's Progress**: Fiddled about with a lot of UI things the last two days and tried a lot of plugins for different things, as date picking tools, form validation, google maps, etc.
 
 ### Day 25: February 19, 2021
-**Today's Progress**: Made a little excursion today to learn more in-depth knowlegde about CURL calls in PHP. 
+**Today's Progress**: Made a little excursion today to learn more in-depth knowlegde about CURL calls in PHP.
+
+### Day 26: February 22, 2021
+**Today's Progress**: I had a lazy weekend, my apologies to the community ;) Today I learned more about GraphQL, because I still don't understand how the WPGraphQL plugin is working correctly 
