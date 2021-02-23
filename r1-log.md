@@ -69,3 +69,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 26: February 22, 2021
 **Today's Progress**: I had a lazy weekend, my apologies to the community ;) Today I learned more about GraphQL, because I still don't understand how the WPGraphQL plugin is working correctly 
+
+### Day 27: February 23, 2021
+**Today's Progress**: Today I learned more about setting up custom fields and custom types within WPGraphQL and about the advantages of WPGraphQL vs. WP REST API 
