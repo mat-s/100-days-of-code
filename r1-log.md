@@ -71,4 +71,7 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 **Today's Progress**: I had a lazy weekend, my apologies to the community ;) Today I learned more about GraphQL, because I still don't understand how the WPGraphQL plugin is working correctly 
 
 ### Day 27: February 23, 2021
-**Today's Progress**: Today I learned more about setting up custom fields and custom types within WPGraphQL and about the advantages of WPGraphQL vs. WP REST API 
+**Today's Progress**: Today I learned more about setting up custom fields and custom types within WPGraphQL and about the advantages of WPGraphQL vs. WP REST API
+
+### Day 28: February 24, 2021
+**Today's Progress**: Today I learned more about WPGraphQL in combination with Wordpress Post Types, like Post, Pages, Custom Post Types etc... And I finally understood, what Edges are in WPGraphQL
