@@ -75,3 +75,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 28: February 24, 2021
 **Today's Progress**: Today I learned more about WPGraphQL in combination with Wordpress Post Types, like Post, Pages, Custom Post Types etc... And I finally understood, what Edges are in WPGraphQL
+
+### Day 29: February 25, 2021
+**Today's Progress**: Today I started a new video tutorial for using Gatsby with Wordpress. So far it is pretty basic, creating the first pages and components. 
