@@ -78,3 +78,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 29: February 25, 2021
 **Today's Progress**: Today I started a new video tutorial for using Gatsby with Wordpress. So far it is pretty basic, creating the first pages and components. 
+
+### Day 30: February 26, 2021
+**Today's Progress**: I continues with the video couorse and learned more about the use of CSS within our little project. Unfortunately I was a bit short on time today, hope to have more time tomorrow.
