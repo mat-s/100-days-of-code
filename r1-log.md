@@ -87,3 +87,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 32 &33: March 1, 2021
 **Today's Progress**: The last two days I got caught up in a Wordpress problem with custom taxonomies and translations. I am still trying to solve that problem, but the learnings are soo far lower then the frustration... It is good to know that there is a big learning at the end of that ;)
+
+### Day 34: March 2, 2021
+**Today's Progress**: Finally back to Gatsby, continuing the video course. Today I learned more about different inclusions of CSS, we set up react-bootstrap and built different comoponents into our test project
