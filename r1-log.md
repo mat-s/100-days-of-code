@@ -90,3 +90,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 34: March 2, 2021
 **Today's Progress**: Finally back to Gatsby, continuing the video course. Today I learned more about different inclusions of CSS, we set up react-bootstrap and built different comoponents into our test project
+
+### Day 35: March 3, 2021
+**Today's Progress**: I continued with the video course. Today it was about creating several subpages and building a layout component. Then I started to learn more about GraphQL and plugins, before I run into a version conflict in npm. I guess that is a good task to deal with tomorrow...
