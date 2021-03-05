@@ -93,3 +93,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 35: March 3, 2021
 **Today's Progress**: I continued with the video course. Today it was about creating several subpages and building a layout component. Then I started to learn more about GraphQL and plugins, before I run into a version conflict in npm. I guess that is a good task to deal with tomorrow...
+
+### Day 36: March 4, 2021
+**Today's Progress**: Today I came back to my Soap calls that I started a couple of days ago. I learned a new API and set up a couple of methods to retrieve my data.
