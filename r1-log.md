@@ -96,3 +96,6 @@ The log of my #100DaysOfCode challenge. Started on [January 26, Tuesday, 2021].
 
 ### Day 36: March 4, 2021
 **Today's Progress**: Today I came back to my Soap calls that I started a couple of days ago. I learned a new API and set up a couple of methods to retrieve my data.
+
+### Day 37: March 5, 2021
+**Today's Progress**: Today I had to fix a gulp file, so I had to dig into that problem and was forced to learn a lot of gulp details by trying to solve the errors... So I learned a loot, but didn't do anything on my Gatsby/React code
